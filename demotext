@@ -1,7 +1,12 @@
 laravel-的学习笔记
 1.安装composer
+  参照:http://docs.phpcomposer.com/00-intro.html
 2.安装框架
+  参照:http://laravelacademy.org/post/5744.html
 3.学习路由
+  参照:https://blog.csdn.net/OneGoal/article/details/77825781
 4.学习DB门面
+  参照:https://laravel.com/api/5.1/Illuminate/Database.html
 5.学习中间件
+  参照:http://laravelacademy.org/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6
 6.服务容器学习
